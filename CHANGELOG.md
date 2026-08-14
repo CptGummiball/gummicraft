@@ -1,6 +1,14 @@
 # Changelog
 
-## 1.1.0 - 08-.08.2026
+## 1.2.0 - 14.08.2026
+
+Hinzugefügte Mods:
+- Oracle Index **(in den Optionen liegt die ingame Wiki auf "H", das müsst ihr anpassen, ansonsten öffnet sie sich nicht wegen überschneidender Tastenbelegung)**
+
+Fixes:
+- Erneuter Ressourcepack Fix (Jetzt funktioniert es! alle Notwendigen Ressourcen können nicht mehr entfernt werden!)
+
+## 1.1.0 - 08.08.2026
 
 Hinzugefügte Mods:
 - Energized Power + Addons
