@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.1 - 16.08.2026
+
+Fixes:
+- Menü Fix
+
+
 ## 1.2.0 - 14.08.2026
 
 Hinzugefügte Mods:
