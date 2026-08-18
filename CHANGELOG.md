@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.2.9 - 16.08.2026
+## 1.2.8 - 16.08.2026
 
 Hinzugefügte Mods:
 - Polymorph (hilft bei Rezept Konflikten)
