@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.9 - 16.08.2026
+
+Hinzugefügte Mods:
+- Polymorph (hilft bei Rezept Konflikten)
+- Splinecart (Achterbahn YAY!)
+- Axiom (Admin Zeugs)
+
 ## 1.2.1 - 16.08.2026
 
 Fixes:
