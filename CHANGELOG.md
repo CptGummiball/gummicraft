@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.3.0 - 22.08.2026
+
+Hinzugefügte Mods:
+- Underlay (ermöglicht es, Teppiche (und alles andere) unter jedem Block zu platzieren, unter dem sich freier Raum befindet)
+- Unify (Reduzierung von Artikelduplikaten; Zusammenführung aller duplizierten Materialien)
+- FTB Granular Claims (erweitert FTB Chunks + FTB Teams um deutlich feinere Claim-Rechte)
+- TINKERS CONSTRUCT (Fabric Port von CaptainGummiball)
+
+Änderungen:
+- 24 Mods geupdated
+
+Notes:
+- Tinkers Construct kann noch Probleme machen, muss es aber nicht. Bitte alle Bugs melden
+
 ## 1.2.8 - 16.08.2026
 
 Hinzugefügte Mods:
