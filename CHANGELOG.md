@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.3.4/1.3.5 - 29.08.2026
+
+Hinzugefügte Mods:
+- More Stick Variants
+- More Weapon Variants
+- More Armor Stands Variants
+- More Tool Variants
+- More Torch Variants
+- More Rails Variants
+- More Ladder Variants
+
+Entfernte Mods:
+- Axiom
+- Supplemental Patches
+
+Fixes:
+- Tinkers Construct Rezeptfehler behoben
+- Tinkers Construct fehlende Items teilweise behoben
+
 ## 1.3.0 - 22.08.2026
 
 Hinzugefügte Mods:
