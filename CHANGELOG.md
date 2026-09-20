@@ -1,6 +1,68 @@
 # Changelog
 
-## 1.4.1 - 20.01.2026
+## 1.4.2 - 21.09.2026
+### Big Update Part 2: Beyond the Clouds
+
+Hinzugefügte Mods:
+- Connectible Chains
+- The Aether
+- Aether Villages hinzugefügt
+- Farmer's Cutting: The Aether hinzugefügt
+- Energized Power - The Aether hinzugefügt
+- MapSyncer-for-XaeroWorldmap
+
+Entfernte Mods:
+- Treeharvester entfernt (Überschneidung zu FTB Ultimine)
+
+Updates:
+- [Let's Do] Apple Wood Rebarked
+- [Let's Do] Alpine Whispers
+- [Let's Do] Beachparty
+- [Let's Do] BloomingNature
+- [Let's Do] Brewery - Farm&Charm Compat
+- [Let's Do] Camping updated",
+- [Let's Do] Candlelight - Farm&Charm compat
+- [Let's Do] Farm & Charm
+- [Let's Do] Furniture
+- [Let's Do] Hearth & Timber
+- [Let's Do] HerbalBrews
+- [Let's Do] Lili's Lucky Lures
+- [Let's Do] Lili's Pottery
+- [Let's Do] Vinery
+- [Let's Do] Meadow
+- [Let's Do] WilderNature
+- Adorable Hamster Pets
+- Easy NPC
+- Energized Power
+- Entity Culling
+- Fancy Entity Renderer
+- FancyMenu
+- Fusion
+- Geckolib
+- Hybrid Aquatic
+- ImmediatelyFast
+- Immersive Melodies
+- Inventory Essentials
+- Fzzy Config
+- Oritech
+- Only Hammers And Excavators
+- Puzzles Lib
+- Rechiseled
+- Sawmill
+- Supplementaries
+- The Bumblezone - Fabric
+- Tide Extra Compatibility
+- Visual Workbench
+- Universal Enchants
+- Waystones
+- Moonlight Lib
+   
+
+Fixes:
+- Oritech -> Tinker Inkompatibilität gefixed
+- Tinker Leerer Casting Table fix + 10 weitere Tinker fixes
+
+## 1.4.1 - 20.09.2026
 ### Big Update Part 1: The Culinary Expansion
 
 Hinzugefügte Mods:
