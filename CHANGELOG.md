@@ -1,5 +1,35 @@
 # Changelog
 
+## 1.4.1 - 20.01.2026
+### Big Update Part 1: The Culinary Expansion
+
+Hinzugefügte Mods:
+- Farmers Delight
+- Farmer's Knives
+- Farmer's Cutting: Biomes O' Plenty
+- Farmer's Delight: Meal Mastery
+- Energized Power - Farmer's Delight
+- End's Delight
+- Compat Delight
+- Rustic Delight
+- Ocean's Delight
+- Hybrid Delights
+- Vegan Delight
+- Nature's Delight
+- Display Delight Fabric
+- Block Pack (1200+ neue Deko Blöcke)
+- Nature's Spirit
+
+Fixes:
+- Mehr Performance durch Partikel Optimierung
+- Mehr Performance durch Entity Optimierung
+- Mehr Performance durch Lightmap Optimierung
+
+Notes:
+- Kommunikation zwischen Tinker's Construct und Oritech Fliud Röhren aktuell nicht möglich und führt zum Crash!
+- Tinker's Construct fehlen noch ein paar Rezepte (kommt mit einem der 1.4 Updates)
+- Es gibt noch überschneidungen von Farmer's Delight und Let's Do (werden mit einem der 1.4 Updates behoben)
+
 ## 1.3.4/1.3.5 - 29.08.2026
 
 Hinzugefügte Mods:
