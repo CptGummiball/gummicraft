@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.4.25 - 23.09.2026
+### Fix
+
+Shader:
+- BSL & Solas Shader entfernt
+- Miniature Shader hinzugefügt (Sehr simpler performanter Shader für ältere Systeme)
+
+Fixes:
+- Complementary Unbound + Euphoria Patches: Falsche Shader-Blockeigenschaften für Marigold und Oritech Reactor Redstone Port entfernt
+- EMI: Abstürze und Fehler bei Reparatur- sowie Tinkers’-Construct-Rezepten behoben.
+- Rechiseled: EMI-Integration an Rechiseled 1.2.6 angepasst und Rezeptanzeige repariert.
+- Compat Delight: Fehlerhafte und nicht verfügbare Rezepte korrigiert bzw. sauber übersprungen.
+- Let’s Do Compat: Fehler beim Auslesen von requireContainer behoben.
+- Diagonal Fences: 14 problematische Macaw’s-Fences von diagonalen Verbindungen ausgeschlossen.
+- Diagonal Walls: 1024 problematische Aether-Wände von diagonalen Verbindungen ausgeschlossen.
+
 ## 1.4.2 - 21.09.2026
 ### Big Update Part 2: Beyond the Clouds
 
