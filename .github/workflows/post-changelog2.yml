@@ -19,7 +19,7 @@ jobs:
 
       - name: Neuesten Changelog-Eintrag senden
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_2 }}
+          DISCORD_WEBHOOK_URL_2: ${{ secrets.DISCORD_WEBHOOK_URL_2 }}
           REPOSITORY_URL: ${{ github.server_url }}/${{ github.repository }}
         run: |
           python3 <<'PYTHON'
