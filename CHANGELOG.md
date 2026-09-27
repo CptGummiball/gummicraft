@@ -1,5 +1,29 @@
 # Changelog
 
+## 1.4.27 - 27.09.2026
+### Fix + Stuff
+
+Hinzugefügt:
+Tesseract hinzugefügt (Items, Flüssigkeiten und Strom schneller, weiter und über Dimensionen hinweg bewegen)
+Beat Lamp hinzugefügt
+cat_jam hinzugefügt
+Party Parrot hinzugefügt
+
+Updates:
+- [Let's Do] Bakery - Farm&Charm Compat
+- [Let's Do] Farm & Charm
+- Exposure
+- Hybrid Aquatic
+- Mod Menu
+- Trash Cans
+- Waystones
+- Sodium
+- Entity Culling
+
+Fixes:
+- Biomes of Plenty: Corrupted End abgeschaltet
+- Tinkers Construct: Tank Update Stacktrace Disconnect gefixed
+
 ## 1.4.25 - 23.09.2026
 ### Fix
 
