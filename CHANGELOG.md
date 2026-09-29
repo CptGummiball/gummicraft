@@ -1,5 +1,40 @@
 # Changelog
 
+## 1.4.31 - 29.09.2026
+### Fix + Stuff
+
+Hinzugefügt:
+- weitere Music Discs
+- RailNet (by cptgummiball | Beta)
+
+Updates:
+- MoonlightLib
+- CreativeCore
+- Collective
+- Balm
+- [Let's Do] Applewood Rebarked
+- BeatLamp
+- Geophilic
+- Iventory Essentials
+- Click Signs
+- FTB Mods
+
+Fixes:
+- Minecarts werden von CarryOn nun ignoriert
+- Botany Pots-Kompatibilität deutlich erweitert:
+  - Unterstützung für zahlreiche zuvor fehlende Pflanzen, Seeds und Böden ergänzt.
+  - Zusätzliche Seed-/Crop-Zuordnungen und passende Soil-Tags hinzugefügt.
+  - Offensichtliche False Positives und ungeeignete Deko-/Terrainblöcke herausgefiltert.
+- Tesseract:
+  - Items und Fluids werden jetzt von jeder Seite erkannt
+  - Registriert umliegende Blöcke jetzt sofort und ohne dass diese neu gesetzt werden müssen
+
+Sonstiges:
+- Configs aufgeräumt
+
+Notes:
+- Bekannter Bug: Refined Storage Grid flackert wenn ein Network Receiver angebunden ist (lässt sich temporär beheben wenn man den Receiver regelmäßig neu setzt)
+
 ## 1.4.27 - 27.09.2026
 ### Fix + Stuff
 
