@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.4.31 - 29.09.2026
+## 1.4.32 - 30.09.2026
 ### Fix + Stuff + Wiki
 
 Hinzugefügt:
