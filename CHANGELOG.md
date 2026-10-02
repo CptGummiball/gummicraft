@@ -1,5 +1,50 @@
 # Changelog
 
+## 1.5.0 - 02.10.2026
+### Fix + Stuff + Wiki
+
+Updates:
+- Fabric Loader (0.19.3 -> 0.19.5)
+- Click Sign
+- Clutter
+- Easy NPC
+- Inventory Essentials
+- Fusion (Connected Textures)
+- Lithostitched
+
+Hinzugefügt:
+- Pipster (by cptgummiball) hinzugefügt (fügt neue Transportrohre und Kabel hinzu)
+
+Entfernt:
+- ItemBlocker
+- RecipeBlocker
+
+Änderungen:
+- Ingame-Wiki geupdated
+- Item Unification: Steel vereinheitlicht – Oritech-, Energized-Power- und Tinkers-Steel ergeben jetzt überall denselben Oritech Steel Ingot und Oritech Block of Steel. Steel-Nuggets sind einheitlich die von Energized Power.
+- Item Unification: Eisen-, Gold- und Kupferstaub vereinheitlicht – Pulverizer und Grinder aus Oritech und Energized Power liefern denselben Staub (Oritech).
+- Item Unification: Kupfernuggets vereinheitlicht (Oritech, Tinkers, Clutter → Oritech), auch beim Gießen in der Tinkers-Schmelze.
+- Item Unification: Silizium und Siliziumblöcke vereinheitlicht (Oritech, Energized Power, Refined Storage → Oritech). Alle Maschinen akzeptieren es wie bisher.
+- Item Unification: Doppelte Items aus EMI und dem Kreativmenü entfernt – sie liegen gesammelt im Kreativ-Tab „Unified Duplicates" und zeigen im Tooltip das richtige Item.
+- Item Unification: Alte Items gehen nicht verloren – jedes Duplikat lässt sich 1:1 umwandeln: einzeln in die Werkbank legen oder mit dem Stack in der Hand rechtsklicken. Platzierte Blöcke droppen beim Abbau automatisch die richtige Variante.
+- Item Unification: Problematische Sonderitems sind bewusst ausgenommen, z. B. Uran/Uraninit, Energized Steel, Biosteel, Münzen, Hämmer, Wrenches und Lebensmittel.
+
+
+Fixes:
+- Refined Storage/Energized Power: Compat Layer für den Alloy Furnace eingebaut
+- Fehler aus 1.4.32 behoben: Oritech-Staub lässt sich wieder normal schmelzen
+- Fehler aus 1.4.32 behoben: Holz-Druckplatten (Kiefer, Tanne, Mahagoni, Ahorn, Palme, Redwood, Weide, Espe, Zypresse, Lärche, Skyroot) gehören wieder zur richtigen Holzart, droppen sich wieder selbst und tauchen wieder normal auf
+- Fehler aus 1.4.32 behoben: Der Refined-Storage-Creative-Storage-Block ist wieder er selbst (wurde zum Oritech-Creative-Energy-Storage); Thorn-Coral-Blöcke aus Hybrid Aquatic und Raw Pasta aus Farmer's Delight sind wieder eigenständige Items
+- Tinkers-Steel-Rüstungsbesatz (Armor Trim) funktioniert wieder, jetzt mit dem Oritech-Steel-Ingot
+
+
+Notes:
+- Wer in 1.4.32 Energized-Power-Staub, EP-Steel oder Clutter-Kupfernuggets gelagert hat, sollte diese einmal umwandeln (Werkbank oder Rechtsklick). Bis dahin passen sie in keine Rezepte.
+- Autocrafting-Muster, Filter und Exporter, die auf die alten Items eingestellt sind, ggf. neu setzen.
+
+
+
+
 ## 1.4.32 - 30.09.2026
 ### Fix + Stuff + Wiki
 
