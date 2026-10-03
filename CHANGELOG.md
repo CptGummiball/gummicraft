@@ -1,5 +1,39 @@
 # Changelog
 
+## 1.5.1 - 03.10.2026
+### POTATO!
+
+Hinzugefügt:
+- QuantaVolt PRERELEASE (by cptgummiball)
+
+Updates:
+- dummmmmmy
+- AmbientSounds
+- ClickSigns
+- EasyNPCs
+- Collective
+- ReFramed
+
+Änderungen:
+- Ingame-Wiki geupdated
+
+Fixes:
+
+- Tide-Köder lassen sich wieder herstellen. Der Tag für Feldfrüchte (`c:crops`) war durch einen fehlerhaften Kompatibilitäts-Eintrag komplett ausgefallen. Davon waren auch Farm & Charm und Vegan Delight betroffen.
+- Der Warden droppt wieder seinen Sculk-Katalysator.
+- Salat zählt wieder als Blattgemüse und Salatzutat: Sandwiches, Suppen und Nudelgerichte aus Farmer's Delight sind wieder herstellbar.
+- Gerichte mit Milch, Eiern oder Paprika aus Compat Delight funktionieren wieder (Karamell, Marshmallow, Milchschokolade, Butter, Bambuskuchen, Gemüsesalat …).
+- Botany Pots: Beerensträucher, Trauben, Hopfen, Tee und Helvola lassen sich jetzt anbauen.
+- Stahl-Rüstungsverzierungen funktionieren wieder mit Oritech-Stahl.
+- Walfälle (Hybrid Aquatic) generieren wieder in neu erkundeten Gebieten. Die Fische aus Hybrid Aquatic lassen sich mit der Fischfalle fangen.
+- Muscheln (Critters & Companions) können über Tide wieder geangelt werden.
+- Wilder Kohl droppt beim Abbauen wieder Kohlsamen und gelegentlich Kohl, statt immer nur sich selbst. Den Block selbst bekommt man nur noch mit der Schere.
+- Schneidebrett: Wilden Kohl mit dem Messer schneiden ergibt wieder Kohlsamen und gelben Farbstoff, mit etwas Glück zusätzlich Gurkensamen.
+- Entrindetes Holz verschiedener Mods zählt wieder als `c:stripped_wood`.
+- Öfen aus More Furnace Variants zählen wieder als Ofen (Rezepte aus Quad und Oritech).
+- Kleinere Tag-Korrekturen: Grill (Camping) ist mit der Spitzhacke abbaubar, Rucksack-Blöcke lassen sich nicht mehr mit Carry On hochheben, Random Teleport meidet Laub und Bedrock, Mob-Verhalten der Krokodile und Springhasen ist repariert.
+
+
 ## 1.5.0 - 02.10.2026
 ### Fix + Stuff + Wiki
 
