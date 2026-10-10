@@ -1,5 +1,52 @@
 # Changelog
 
+## 1.5.2 - 03.10.2026
+### Drill Baby, Drill!
+
+Hinzugefügt:
+- [Let's Do] Smoker
+
+Updates:
+- QuantaVolt
+- [Let's Do] Candlelight
+- [Let's Do Addon] Corn Expansion
+- [Let's Do] Bakery, [Let's Do] BloomingNature
+- [Let's Do] Brewery
+- [Let's Do] Farm & Charm
+- AmbientSounds
+- Beat Lamp
+- Collective
+- Entity Culling
+- Hybrid Aquatic + API
+- Hybrid Delights
+- Moonlight Lib
+- Oritech
+- Xaero's Minimap
+- Xaero's World Map
+- SuperMartijn642's Core Lib
+
+Änderungen:
+- Plöpp wurde aus dem Spiel entfernt
+- Gronkh wurde aus dem Spiel entfernt
+- QuantaVolt Erdgas: Neue Erdgasvorkommen in der Oberwelt (5–150 Mio. mB). Etwa 60 % der Regionen enthalten kein Gas. Vorkommen sind dauerhaft erschöpfbar. Erdgas liefert doppelt so viel Energie wie Synthesegas.
+- QuantaVolt Gasprospektor: Zeigt Gasvorkommen, Restmenge, Förderrate und Richtung zum nächsten Vorkommen an.
+- QuantaVolt Gasbohrturm: Förderturm mit 3 × 3 Blöcken Grundfläche und 6–12 Blöcken Höhe. Fördert je nach Höhe 60–300 mB/t. Kosten: 0,5 E/mB. Förderrate sinkt bei Erschöpfung.
+- QuantaVolt Oxyfuel: Gasturbine, Gasmotor und Kessel erzeugen mit zusätzlichem Sauerstoff 25 % mehr Wärme.
+- QuantaVolt Gasfackel: Verbrennt überschüssige Gase (bis 500 mB/t) ohne Energiegewinnung. Mit Flammeneffekt und Redstone-Steuerung.
+- QuantaVolt Bauprojektor: Zeigt Baupläne, fehlende Materialien und Blockpositionen für alle 22 Multiblock-Anlagen. Unterstützt verschiedene Größen und schichtweise Projektionen.
+- QuantaVolt Fortschritte: 29 neue QuantaVolt-Fortschritte für Maschinen, Technologien und besondere Ereignisse.
+- QuantaVolt Asche: Neue Rezepte für Thermobeton, Stahlbeton und Knochenmehl (3 Asche = 1 Knochenmehl).
+- QuantaVolt Verbundene Texturen: Fehlende Eckpixel an Sichtglasrahmen behoben.
+- QuantaVolt Kessel: Unterstützt jetzt Erdgas und Synthesegas als Brennstoff.
+
+Fixes:
+- Kupfernuggets: Die Clutter-Rezepte mit Kupfernuggets (Large Copper Chain und 60 weitere) funktionieren jetzt mit den herstellbaren Oritech-Nuggets. Doppelte Items, die das Pack zusammenführt (Kupfernuggets, Stahl, Silizium, Erzstaub), werden in EMI nicht mehr mehrfach angezeigt.
+- QuantaVolt: Per Befehl (/setblock, /fill), Strukturen oder Mods platzierte Anlagenteile verbinden sich sofort mit benachbarten Blöcken.
+- QuantaVolt Kondensatorbank und Solarthermiefeld: Anschlüsse an den Seiten, oben und unten funktionieren jetzt korrekt und zeigen nach außen statt in die Wand.
+
+Notes:
+- Wer bei der Energiewende auf erneuerbare Energien gehofft hat, bekommt stattdessen einen Gasbohrturm in den Vorgarten.
+
 ## 1.5.1 - 03.10.2026
 ### POTATO!
 
