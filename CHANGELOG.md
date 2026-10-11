@@ -1,5 +1,25 @@
 # Changelog
 
+
+## 1.5.2 - 11.10.2026
+
+Hinzugefügt:
+- FTB-Questbuch hinzugefügt mit 25 Kapiteln in 8 Gruppen und 577 Quests (by cptgummiball)
+
+Änderungen:
+- Puff-Bomben, wachsen nicht mehr einfach so auf Feldern
+- Accesoires haben jetzt ein gemeinsames Menü (by cptgummiball)
+- Modpack gesäubert (Alte configs, Dateien und Ordner entfernt)
+- Neues Hauptmenü (by cptgummiball)
+- Neuer Ladebildschirm (by cptgummiball)
+- Web Map wurde entfernt um dem Server etwas zu entlasten
+
+Fixes:
+- Käse-Tags repariert: Käsegerichte aus Candlelight und Meadow sind wieder herstellbar, unter anderem Lasagne, Pasta Bolognese, Tomaten-Mozzarella-Salat und Käsesandwich.
+- Tinkers’ Construct gießt jetzt die vereinheitlichten Materialien (Oritech-Stahl, -Kupfernuggets, -Stäube, -Silizium) statt alter Doppel-Varianten.
+- EMI blendet jetzt auch die vereinheitlichten QuantaVolt-Duplikate aus (Stahlbarren, Uranstaub, Tiefenschiefer-Uranerz).
+- options.txt wird jetzt beim ersten Download mit geliefert
+
 ## 1.5.2 - 03.10.2026
 ### Drill Baby, Drill!
 
