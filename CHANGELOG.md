@@ -1,7 +1,44 @@
 # Changelog
 
+## 1.5.5 - 16.10.2026
+### Fixes + Updates + QoL
 
-## 1.5.2 - 11.10.2026
+Updates:
+- More Lectern Variants
+- Hybrid Delights
+- [Let's Do] Mods
+- Natures Spirit
+- Midnight Lib
+- Collective
+- Supplementaries
+- Puzzles Lib
+- More Barrel Variants
+- Moonlight Lib
+- Lithostitched
+- Immediately Fast
+- Fusion
+- EuphoriaPatcher
+- EasyNPCs
+
+Hinzugefügt:
+- AFK Mods
+- Nepi
+- Subtle Effects
+- Crops Love Rain
+- Bookshelf Inspector
+- Explosive Enhancement
+
+Entfernt:
+- Präriehund
+
+Downgrade:
+- Oritech
+
+Fixes:
+- Apfelpresse produziert jetzt nicht mehr als einen Stack (Chunk Save Bug)
+- Oritech Fluid Container Fix
+
+## 1.5.4 - 11.10.2026
 
 Hinzugefügt:
 - FTB-Questbuch hinzugefügt mit 25 Kapiteln in 8 Gruppen und 577 Quests (by cptgummiball)
