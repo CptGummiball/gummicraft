@@ -1,4 +1,85 @@
+
 # Changelog
+
+## 1.5.6 - 17.10.2026
+
+**Stabilitäts-, Performance- und Balancing-Update**
+
+### Updates:
+- Supplementaries
+- Crops Love Rain
+- Collective
+
+### Hinzugefügt:
+- Lithium 0.15.4 wieder als Mod aufgenommen (Server/Client).
+
+### Änderungen:
+- Dauerhaften spark-Hintergrund-Profiler deaktiviert (Client).
+- Simulation-Distance von 10 auf 8 Chunks reduziert. Dadurch sinkt die tickende Fläche pro Spieler um ca. 34 %. Die Sichtweite bleibt bei 10 Chunks (Server).
+- Emotecraft Debug-Modus deaktiviert (Server/Client).
+- Spawns zahlreicher Tierarten reduziert, Gruppengrößen verkleinert, Persistenz angepasst und doppelt vorhandene Tiere deaktiviert.
+- Münzen-XP-Exploit behoben: Schmelzrezepte für Münzen geben keine XP mehr.
+- Lost Trinkets: Magische Federn (Kreativflug) und Leeres Amulett (unendliche Enderperlen) gesperrt.
+- Haley-Bier gewährt keinen Kreativflug mehr.
+- Maximale Amboss-Kosten auf 50 Level begrenzt.
+- Solarpanele V–VII (Energized Power) erzeugen weniger Energie: 4.096 / 16.384 / 49.152 E/t.
+- Lava-Erzeugung durch den Stone Liquefier deutlich reduziert.
+- Thermal Generator: Energieerzeugung pro Lava-Eimer von 50.000 auf 25.000 E halbiert.
+- Endlos-Energie-Exploit durch Stone Liquefier und Thermal Generator behoben.
+- Tesseract-Rezept deutlich verteuert und an Pipsters Quantum Tesseract angepasst.
+- Botany Pots: Erntewerkzeuge verlieren wieder Haltbarkeit.
+- Powah Uraninit-Erz seltener: Adern pro Chunk von 8/6/3 auf 4/3/2 reduziert.
+- QuantaVolt-Roh-Uran mit Oritech-Roh-Uran vereinheitlicht.
+- Fake-Player müssen die jeweiligen Team-Einstellungen für Claims beachten.
+- Neue Teams verbieten Fake-Player standardmäßig. Bestehende Einstellungen bleiben erhalten.
+- Carry On: Energiemaschinen, Spawner, Tresore, Shops und weitere kritische Blöcke können nicht mehr getragen werden.
+- Carry On: Villager, Wanderhändler und Bienenkönigin können nicht mehr getragen werden.
+- Vinery: Maximale Wein-Effektstufe von V auf II reduziert.
+- Vinery: Reifezeit pro Effektstufe von 6 auf 8 Jahre erhöht.
+- Vinery: Effektdauer pro Jahr halbiert und maximale Dauer von 15.000 auf 6.000 Ticks reduziert.
+- Farmer's Bread: Pro Backvorgang entsteht nur noch 1 statt 3 Brote.
+- Übermächtige Gerichte mit Sättigung II, Extraherzen II oder Regeneration III deaktiviert.
+- Herstellung verschiedener Drachenei-Gerichte deaktiviert.
+
+### Fixes:
+- Client: Fehlerhafte 4x7-Pixel-Textur von `displaydelight:block/ctd_egg_roll` verlustfrei auf 64x112 skaliert. Dadurch funktionieren Mipmaps wieder korrekt und entfernte Blöcke flimmern weniger.
+- Client: Startabsturz durch Lithium in Kombination mit Tinkers' Construct behoben. Nur das Fluid-Fluss-Modul wurde deaktiviert.
+- Client: Easy NPC `/function`, Carry On sowie Spawn- und Balancing-Konfigurationen mit dem Server synchronisiert.
+- Server: Absturz durch WilderNature-Igel behoben.
+- Server: Absturz durch Oritech-Fluid-Pipes an Tinkers-Schmelzofen-Ausgüssen behoben.
+- Server: Stille Flüssigkeits-Duplizierung, Flüssigkeitsverluste und Log-Flut behoben.
+- Server: Watchdog-Absturz durch große Energized-Power-Kabelnetze behoben.
+- Server: Defekte Datendateien beim Serverstart repariert.
+- Server: Doppelte Mod-Datei entfernt.
+- Energized Power: Geisterblöcke und Fehler beim Entfernen von Maschinen behoben.
+- Easy NPC: NPC-Befehle werden wieder korrekt ausgeführt.
+- FTB Chunks: Interaktions-Whitelist korrigiert.
+- Hybrid Delights: 11 Gerichte sind im Farm-&-Charm-Kochtopf wieder kochbar.
+- Wildkohl droppt wieder und kann wieder geschnitten werden.
+- Vinery-Konfiguration im neuen 1.5.6-Format aufgebaut und bestehende Werte übernommen.
+- Fehler-Flut durch Unify im Log behoben.
+
+### Notes:
+- **Carry On:** Spawner, Tresore, Villager, Wanderhändler, Technik-Maschinen, Shops und weitere sensible Blöcke können nicht mehr aufgehoben werden.
+- **Lost Trinkets & Brewery:** Magische Federn, Leeres Amulett und Kreativflug durch Haley-Bier deaktiviert. Bereits freigeschaltete Trinkets werden entfernt.
+- **Vinery:** Weine erreichen maximal Effektstufe II statt V.
+- **Energie-Balancing:** Solarpanele V–VII, Thermal Generator und Stone Liquefier deutlich abgeschwächt. Bestehende Anlagen funktionieren mit den neuen Werten weiter.
+- **Tesseract:** Neues, teureres Rezept mit Quantum Core und Netheritbarren. Bereits gebaute Tesseracts bleiben erhalten.
+- **Exploit-Fixes:** Münzen-Schmelzen gibt keine XP mehr. Amboss-Kosten sind auf maximal 50 Level begrenzt.
+- **Food-Balancing:** Farmer's Bread ergibt nur noch 1 statt 3 Brote. Übermächtige Gerichte wie Drachenei-Speisen, Honigbrot und Blütenkekse sind nicht mehr herstellbar. Vorhandene Gerichte bleiben nutzbar.
+- **Botany Pots:** Erntewerkzeuge verlieren wieder Haltbarkeit.
+- **Performance:** Farmen und Maschinen bleiben nur noch im Umkreis von 8 statt 10 Chunks um Spieler aktiv.
+- **Tier-Spawns:** Weniger Hamster, Wildschweine, Bisons, Nilpferde und weitere Tiere. Vorhandene Tiere bleiben erhalten.
+- **Tier-Despawn:** Krokodile, Nilpferde und Springhasen können jetzt verschwinden. Zum dauerhaften Behalten zähmen oder mit Namensschild benennen.
+- **Claims:** Fake-Player berücksichtigen jetzt die Team-Einstellungen. Bitte unter FTB Chunks prüfen, ob Maschinen anderer Teams in euren Claims erlaubt sein sollen.
+- **Teleportation:** `/rtp` ist auf maximal 8.000 Blöcke Entfernung begrenzt.
+- **Rezepte und Fixes:** Hybrid-Delights-Gerichte im Farm-&-Charm-Kochtopf verfügbar. Wildkohl-Drops und NPC-`/function`-Aktionen (z. B. King Gummi) repariert.
+- **Launcher/RAM:** Für G1 werden feste 8 GB RAM (Minimum = Maximum) empfohlen. Bei 32 GB System-RAM sind optional 10 GB möglich. Mehr RAM bringt normalerweise keine Vorteile und kann GC-Pausen verlängern.
+- **Launcher/ZGC:** Nur bei mindestens 8 CPU-Kernen und 32 GB RAM empfohlen. Dann 12 GB RAM zuweisen.
+- **Arbeitsspeicher:** Dual-Channel ist wichtiger als DDR4 oder DDR5. G1 profitiert kaum von DDR5, ZGC dagegen stärker von hoher Speicherbandbreite.
+- **Shader/FPS:** Bei niedrigen FPS im Shader-Profil `COLORED_LIGHTING` von 192 auf 128 oder 0 reduzieren.
+
+
 
 ## 1.5.5 - 16.10.2026
 ### Fixes + Updates + QoL
